@@ -1,2 +1,2 @@
-# esbuil-react
+# esbuild-react
 Template for new React projects
